@@ -57,11 +57,11 @@ Learn what’s new each week in Microsoft Intune. You can also find [important n
 -->  
 
 <!-- ########################## -->
-## Week of Decmeber 2, 2019
+## Week of December 2, 2019
 
 #### New System Center Configuration Manager Co-Management Licensing<!--5027281-->
 A new license is now available that lets System Center Configuration Manager customers with Software Assurance get Intune PC management rights without having to purchase an additional Intune license for co-management. Customers no longer need to assign individual Intune/EMS licenses to their end users.
-- Devices managed by System Center Configuration Manager and enrolled into co-management have almost the same rights as an Intune Standalone managed PC. However, after resetting they can't be re-provisioned by using AutopIlot.
+- Devices managed by System Center Configuration Manager and enrolled into co-management have almost the same rights as an Intune Standalone managed PC. However, after resetting they can't be re-provisioned by using Autopilot.
 - Windows 10 devices enrolled into Intune by using other means require full Intune licenses.
 - Devices on other platforms still require full Intune licenses.
 
